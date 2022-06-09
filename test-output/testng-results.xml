@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sleek Pricing Test Suite" duration-ms="138150" started-at="2022-06-09T14:46:12Z" finished-at="2022-06-09T14:48:31Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:commonUtils.TestRunner@6adede5]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Sleek Pricing Test Case" duration-ms="138150" started-at="2022-06-09T14:46:12Z" finished-at="2022-06-09T14:48:31Z">
+      <class name="commonUtils.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:commonUtils.TestRunner@6adede5]" name="setUpClass" is-config="true" duration-ms="565" started-at="2022-06-09T14:46:13Z" finished-at="2022-06-09T14:46:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:commonUtils.TestRunner@6adede5]" name="feature" duration-ms="136692" started-at="2022-06-09T14:46:13Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2022-06-09T14:48:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sleek Test Cases pages automation]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:commonUtils.TestRunner@6adede5]" name="tearDownClass" is-config="true" duration-ms="704" started-at="2022-06-09T14:48:30Z" finished-at="2022-06-09T14:48:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:commonUtils.TestRunner@6adede5]" name="setup" is-config="true" duration-ms="1" started-at="2022-06-09T14:48:31Z" finished-at="2022-06-09T14:48:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- commonUtils.TestRunner -->
+    </test> <!-- Sleek Pricing Test Case -->
+  </suite> <!-- Sleek Pricing Test Suite -->
+</testng-results>

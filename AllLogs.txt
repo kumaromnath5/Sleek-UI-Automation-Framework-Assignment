@@ -1,0 +1,72 @@
+Before navigating to: 'https://sleek.com/sg/'
+Navigated to:'https://sleek.com/sg/'
+Trying to find Element By : By.id: menu-item-36831
+Found Element By : By.id: menu-item-36831
+Trying to find Element By : By.id: menu-item-36831
+Found Element By : By.id: menu-item-36831
+Trying to find Element By : By.id: menu-item-36831
+Found Element By : By.id: menu-item-36831
+Trying to find Element By : By.id: menu-item-36831
+Found Element By : By.id: menu-item-36831
+09/06/2022 20:17:52 [main] INFO  com.sleek.page.SleekpricePage-Pricing Actual price link is clicked
+Trying to find Element By : By.id: menu-item-36831
+Found Element By : By.id: menu-item-36831
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (593b3190b5ba3c3e5fd3136550a52b61)] -> id: menu-item-36831]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (593b3190b5ba3c3e5fd3136550a52b61)] -> id: menu-item-36831]
+09/06/2022 20:17:55 [main] INFO  commonUtils.GenericUtility-Current URL: https://sleek.com/sg/all-services/
+09/06/2022 20:17:55 [main] INFO  com.sleek.page.SleekpricePage-https://sleek.com/sg/all-services/Actual url
+Trying to find Element By : By.xpath: //h3[.='Corporate secretary']/../../../div/div/a
+Found Element By : By.xpath: //h3[.='Corporate secretary']/../../../div/div/a
+Scrolling to the Eelement[[ChromeDriver: chrome on WINDOWS (593b3190b5ba3c3e5fd3136550a52b61)] -> xpath: //h3[.='Corporate secretary']/../../../div/div/a]
+Trying to find Element By : By.xpath: //h3[.='Corporate secretary']/../../../div/div/a
+Found Element By : By.xpath: //h3[.='Corporate secretary']/../../../div/div/a
+Trying to find Element By : By.xpath: //h3[.='Corporate secretary']/../../../div/div/a
+Found Element By : By.xpath: //h3[.='Corporate secretary']/../../../div/div/a
+Trying to find Element By : By.xpath: //h3[.='Corporate secretary']/../../../div/div/a
+Found Element By : By.xpath: //h3[.='Corporate secretary']/../../../div/div/a
+Trying to find Element By : By.xpath: //h3[.='Corporate secretary']/../../../div/div/a
+Found Element By : By.xpath: //h3[.='Corporate secretary']/../../../div/div/a
+Trying to find Element By : By.xpath: //h3[.='Corporate secretary']/../../../div/div/a
+Found Element By : By.xpath: //h3[.='Corporate secretary']/../../../div/div/a
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (593b3190b5ba3c3e5fd3136550a52b61)] -> xpath: //h3[.='Corporate secretary']/../../../div/div/a]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (593b3190b5ba3c3e5fd3136550a52b61)] -> xpath: //h3[.='Corporate secretary']/../../../div/div/a]
+Trying to find Element By : By.xpath: //*[contains(text(),'Unlimited service!')]
+Found Element By : By.xpath: //*[contains(text(),'Unlimited service!')]
+Scrolling to the Eelement[[ChromeDriver: chrome on WINDOWS (593b3190b5ba3c3e5fd3136550a52b61)] -> xpath: //*[contains(text(),'Unlimited service!')]]
+Trying to find Element By : By.xpath: //*[contains(text(),'Unlimited service!')]
+Found Element By : By.xpath: //*[contains(text(),'Unlimited service!')]
+Trying to find Element By : By.xpath: //*[contains(text(),'Unlimited service!')]
+Found Element By : By.xpath: //*[contains(text(),'Unlimited service!')]
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (593b3190b5ba3c3e5fd3136550a52b61)] -> xpath: //*[contains(text(),'Unlimited service!')]]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (593b3190b5ba3c3e5fd3136550a52b61)] -> xpath: //*[contains(text(),'Unlimited service!')]]
+Trying to find Element By : By.xpath: //div[@class='accounting-progress-line']
+Found Element By : By.xpath: //div[@class='accounting-progress-line']
+Trying to find Element By : By.xpath: //p[.='Select your plan:']
+Found Element By : By.xpath: //p[.='Select your plan:']
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (593b3190b5ba3c3e5fd3136550a52b61)] -> xpath: //p[.='Select your plan:']]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (593b3190b5ba3c3e5fd3136550a52b61)] -> xpath: //p[.='Select your plan:']]
+Trying to find Element By : By.xpath: //*[contains(@id,'step7')]
+Found Element By : By.xpath: //*[contains(@id,'step7')]
+Trying to click on: [[ChromeDriver: chrome on WINDOWS (593b3190b5ba3c3e5fd3136550a52b61)] -> xpath: //*[contains(@id,'step7')]]
+Clicked on: [[ChromeDriver: chrome on WINDOWS (593b3190b5ba3c3e5fd3136550a52b61)] -> xpath: //*[contains(@id,'step7')]]
+Trying to find Element By : By.xpath: //*[contains(text(),'Unlimited service!')]
+Found Element By : By.xpath: //*[contains(text(),'Unlimited service!')]
+Scrolling to the Eelement[[ChromeDriver: chrome on WINDOWS (593b3190b5ba3c3e5fd3136550a52b61)] -> xpath: //*[contains(text(),'Unlimited service!')]]
+Trying to find Element By : By.xpath: //*[contains(text(),'Unlimited service!')]
+Found Element By : By.xpath: //*[contains(text(),'Unlimited service!')]
+Trying to find Element By : By.xpath: //*[text()='> 30 Shareholders']
+Found Element By : By.xpath: //*[text()='> 30 Shareholders']
+09/06/2022 20:18:22 [main] INFO  com.sleek.page.SleekpricePage-> 30 ShareholdersnoShareHolder is matched
+Trying to find Element By : By.xpath: //*[text()='S$1,140/year']
+Found Element By : By.xpath: //*[text()='S$1,140/year']
+09/06/2022 20:18:22 [main] INFO  com.sleek.page.SleekpricePage-S$1,140/yearprice range is matched
+<<<<<<<<<browser close>>>>>>>>>>>>>
+===========================================================
+Test Case Executed Sucesfully,Test Name is:	feature
+===========================================================
+
+===============================================
+Sleek Pricing Test Suite
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
